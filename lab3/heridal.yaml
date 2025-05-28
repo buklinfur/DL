@@ -1,1 +1,9 @@
+path: /home/buklinfur/projects/4semester_ai/DL/lab3/dataset
 
+train: images/train/        
+val:   images/val/          
+test:  images/test/
+
+nc: 1
+
+names: ['person']
